@@ -1,1 +1,3 @@
 this is my room.
+tv
+chair
