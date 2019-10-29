@@ -3,4 +3,11 @@ tv
 chair
 pen , table
 
+carpet
+window
+tape
+parrot
+
+
 final for master
+
