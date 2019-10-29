@@ -4,3 +4,5 @@ chair
 pen , table
 carpet
 window
+tape
+parrot
